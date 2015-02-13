@@ -1,0 +1,55 @@
+
+
+makenull
+
+insert -1 1597 Chicago
+insert 16384 4 Chicago
+insert 16383 16834 Chicago
+insert 8581 -8581 Chicago
+insert 5001 5012 Chicago
+insert 5001 5012 Evanston
+insert 5001 6213 Chicago        
+insert 5001 8414    Evanston       
+insert 0 0 Skokie
+insert 16383 16383      New_York 
+debug          
+
+
+
+
+find Chicago
+find    Chicago     
+remove -160         15958
+remove 0               -15958
+remove    581    3851
+
+remove 5001          5012
+
+remove          5001 5012
+
+remove   Chicago
+remove Evanston
+
+
+
+
+
+
+
+
+
+
+        insert 5002 1019 Cook
+    search 0 16893 1
+search 100     159     -1
+
+search -100     159    500
+search 0 68     1000000
+search 5000       5000 100
+
+
+
+  makenull
+debug
+
+
